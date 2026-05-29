@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentpecrypt",
+        "uuid": 25148640,
+        "checksum": "kk3l2i"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
